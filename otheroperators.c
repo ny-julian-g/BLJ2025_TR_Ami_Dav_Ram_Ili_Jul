@@ -11,3 +11,9 @@ int exponential(int inputa,int inputb) {
     }
     return result;
 }
+int root(int inputa) {
+    /*int result = 0;
+    int halfa = inputa / 2;
+    result = halfa * halfa;
+    printf("%d", result);*/
+}
