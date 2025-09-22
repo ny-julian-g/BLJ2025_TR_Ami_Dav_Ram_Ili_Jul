@@ -4,5 +4,6 @@
 
 #ifndef CALC_TEAM8_OTHEROPERATORS_H_H
 #define CALC_TEAM8_OTHEROPERATORS_H_H
-#include "otheroperators.h"
+int exponential(int inputa,int inputb);
+int root(int inputa);
 #endif //CALC_TEAM8_OTHEROPERATORS_H_H
