@@ -18,18 +18,18 @@
 ##### Deadlines
 19.09 Rolle zuteilen
 ### Rollen
-Julian: Potenzen und Wurzeln und die Fakultät
-Ramon: Grundtaschenrechner -> plus und minus, multiplikation und division
-Amina: Grundtaschenrechner -> plus und minus, multiplikation und division 
-(Ilija:)
-(David:)
-19.09 extra feature auswähllen
-(19.09 Grundrechner erstellen)
-24.09 Falls nicht fertig Rechner fertigstellen
-24.09 die UX erstellen
-25. mind 1 Optionales Feature fertig haben
-(26.09 zeit? extra EXTRA feature fertig machen)
-26.09 Reflexion und Präsentation erstellen
+Julian: Potenzen und Wurzeln und die Fakultät  
+Ramon: Grundtaschenrechner -> plus und minus, multiplikation und division  
+Amina: Grundtaschenrechner -> plus und minus, multiplikation und division   
+*(Ilija:)*  
+*(David:)*  
+*19.09* extra feature auswähllen  
+*(19.09 Grundrechner erstellen)*  
+*24.09* Falls nicht fertig Rechner fertigstellen  
+*24.09* die UX erstellen  
+*25.09* mind 1 Optionales Feature fertig haben  
+*(26.09 zeit? extra EXTRA feature fertig machen)*  
+*26.09* Reflexion und Präsentation erstellen  
 
 ## Entscheiden
 #### Entscheidungsmatrix
