@@ -48,6 +48,7 @@ double faculty(double inputa) {
     for (int i = 2; i < inputa; i++ )
         {     faculty *= i; }
     return faculty;
+    // mein Gefallener Code🥀:
     /*int result;
     int i = inputa;
     inputa = inputa -1;
