@@ -40,3 +40,20 @@ double calcsqrt(double inputa){
     }
     return z;
 }
+
+//---------------------------------
+
+double faculty(double inputa) {
+    int faculty = inputa;
+    for (int i = 2; i < inputa; i++ )
+        {     faculty *= i; }
+    /*int result;
+    int i = inputa;
+    inputa = inputa -1;
+    result = i * inputa;
+    for (inputa == 0; --inputa;) {
+        result = result * inputa;
+    }
+    return result;
+    */
+}
