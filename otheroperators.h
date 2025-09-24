@@ -4,6 +4,6 @@
 
 #ifndef CALC_TEAM8_OTHEROPERATORS_H_H
 #define CALC_TEAM8_OTHEROPERATORS_H_H
-int exponential(int inputa,int inputb);
-int root(int inputa);
+double exponential(double inputa,double inputb);
+double calcsqrt(double inputa);
 #endif //CALC_TEAM8_OTHEROPERATORS_H_H
