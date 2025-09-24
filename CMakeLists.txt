@@ -7,6 +7,5 @@ add_executable(Calc_team8
         main.c
         otheroperators.c
         otheroperators.h
-        hello.cpp
         hello.h
 )
