@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "otheroperators.h"
-void main(){
+#include "calc_08.h"
+void main() {
 
 }
