@@ -21,7 +21,7 @@
 Julian: Potenzen und Wurzeln und die Fakultät  
 Ramon: Grundtaschenrechner -> plus und minus, multiplikation und division  
 Amina: Grundtaschenrechner -> plus und minus, multiplikation und division   
-*(Ilija:)*  
+*(Ilija:)*  = nicht präsent
 *(David:)*  
 *19.09* extra feature auswähllen  
 *(19.09 Grundrechner erstellen)*  
