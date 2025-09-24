@@ -1,7 +1,7 @@
 # Calc_team8
 # Dokumentation per IPERKA
 ## Informieren
-###### Wir mussten noch einige Dinge klären wie zum Beispiel wie viele Features wir implementieren müssen. Es gibt verschiedene Wahlfeature-Blöcke und wir brauchen mindestens ein zusätzliches Feature. Wir mussten noch klären was ein Fakultät ist (mit K.I natürlich).
+ Wir mussten noch einige Dinge klären wie zum Beispiel wie viele Features wir implementieren müssen. Es gibt verschiedene Wahlfeature-Blöcke und wir brauchen mindestens ein zusätzliches Feature. Wir mussten noch klären was ein Fakultät ist (mit K.I natürlich).
 ## Planen
 #### Arbeitsschritte
 1. Informieren über die programmierung der grundoperationen.
@@ -35,4 +35,5 @@ Amina: Grundtaschenrechner -> plus und minus, multiplikation und division
 #### Entscheidungsmatrix
 ####
 ## Realisieren
-## K
+## Kontrollieren
+## Auswerten
