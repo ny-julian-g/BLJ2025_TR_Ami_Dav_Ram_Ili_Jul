@@ -47,6 +47,7 @@ double faculty(double inputa) {
     int faculty = inputa;
     for (int i = 2; i < inputa; i++ )
         {     faculty *= i; }
+    return faculty;
     /*int result;
     int i = inputa;
     inputa = inputa -1;
