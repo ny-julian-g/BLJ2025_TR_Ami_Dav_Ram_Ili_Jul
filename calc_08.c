@@ -68,9 +68,4 @@ int grundrechner() {
     return 0;
 }
 
-int main() {
-    grundrechner();
-    return 0;
-}
-
 //#include "calc_08.h"

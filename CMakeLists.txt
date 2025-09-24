@@ -8,4 +8,6 @@ add_executable(Calc_team8
         otheroperators.c
         otheroperators.h
         hello.h
+        calc_08.c
+        hello.c
 )
