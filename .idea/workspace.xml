@@ -4,12 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BackendCodeEditorMiscSettings">
+<<<<<<< Updated upstream
     <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
   </component>
   <component name="CMakePresetLoader"><![CDATA[{
   "useNewFormat": true
 }]]></component>
+=======
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="4" type="long" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+>>>>>>> Stashed changes
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
   </component>
@@ -17,7 +28,13 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
+<<<<<<< Updated upstream
     <generated />
+=======
+    <generated>
+      <config projectName="Calc_team8" targetName="Calc_team8" />
+    </generated>
+>>>>>>> Stashed changes
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -25,9 +42,27 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="4fe529ac-7a70-4bd5-8c55-14b492da136f" name="Changes" comment="Modifikationen gemacht">
       <change beforePath="$PROJECT_DIR$/Dokumentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dokumentation.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calc_08.exe" beforeDir="false" afterPath="$PROJECT_DIR$/calc_08.exe" afterDir="false" />
+=======
+    <list default="true" id="38af0a11-885f-4912-88fe-a588919ebb70" name="Changes" comment="Die Doku aktualisiert">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicoperators.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicoperators.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputidentif.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputidentif.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otheroperators.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otheroperators.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Calc_team8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Calc_team8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dokumentation.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dokumentation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calc_08.c" beforeDir="false" afterPath="$PROJECT_DIR$/calc_08.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +76,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="333LwGAqlSZCd7dn0fsR6eo2uwm" />
+=======
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/calc_08.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Work/C/Calc_team8/main.c" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="32vAuc9rqc2u0b3fAVszfNORKVQ" />
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< Updated upstream
     "C/C++ File.calc_08.c.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+=======
+    "CMake Application.Calc_team8.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+>>>>>>> Stashed changes
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -62,7 +119,12 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+<<<<<<< Updated upstream
     "git-widget-placeholder": "main",
+=======
+    "git-widget-placeholder": "Merging main",
+    "ignore.virus.scanning.warn.message": "true",
+>>>>>>> Stashed changes
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,11 +134,16 @@
   }
 }]]></component>
   <component name="RunManager">
+<<<<<<< Updated upstream
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+=======
+    <configuration name="Calc_team8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Calc_team8" TARGET_NAME="Calc_team8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Calc_team8" RUN_TARGET_NAME="Calc_team8">
+>>>>>>> Stashed changes
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="calc_08.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Calc_team8" TARGET_NAME="calc_08.c" CONFIG_NAME="calc_08.c">
       <option name="sourceFile" value="calc_08.c" />
       <method v="2">
@@ -102,6 +169,20 @@
       <updated>1758694639911</updated>
     </task>
     <option name="localTasksCounter" value="2" />
+=======
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38af0a11-885f-4912-88fe-a588919ebb70" name="Changes" comment="" />
+      <created>1758290895937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758290895937</updated>
+      <workItem from="1758290897123" duration="986000" />
+      <workItem from="1758392308216" duration="693000" />
+      <workItem from="1758393035126" duration="1913000" />
+    </task>
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +194,23 @@
     <isAutomaticReloadCMake value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< Updated upstream
     <MESSAGE value="Modifikationen gemacht" />
     <option name="LAST_COMMIT_MESSAGE" value="Modifikationen gemacht" />
+=======
+    <MESSAGE value="Die Doku aktualisiert" />
+    <option name="LAST_COMMIT_MESSAGE" value="Die Doku aktualisiert" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/calc_08.c</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+>>>>>>> Stashed changes
   </component>
 </project>
