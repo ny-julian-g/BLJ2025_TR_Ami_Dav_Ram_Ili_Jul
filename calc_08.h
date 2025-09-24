@@ -4,5 +4,5 @@
 
 #ifndef CALC_TEAM8_CALC_08_H
 #define CALC_TEAM8_CALC_08_H
-
+int grundrechner();
 #endif //CALC_TEAM8_CALC_08_H

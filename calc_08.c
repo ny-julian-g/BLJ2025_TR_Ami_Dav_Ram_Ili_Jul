@@ -3,7 +3,7 @@
 //
 #include <stdio.h>
 
-int main() {
+int grundrechner() {
     char operator;
     double num1, num2, result;
     
