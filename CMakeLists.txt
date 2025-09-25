@@ -10,4 +10,6 @@ add_executable(Calc_team8
         hello.h
         calc_08.c
         hello.c
+        "Rock, Paper, Scissors.c"
+        "Rock, Paper, Scissors.h"
 )

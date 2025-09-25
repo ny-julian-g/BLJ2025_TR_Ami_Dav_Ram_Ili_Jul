@@ -33,13 +33,24 @@ double exponential() {
     else if (inputa == 0 ||inputa == 1) {
         result = inputa;
     }
+
     else {
-        for (0 == inputb; --inputb;) {
-            result = inputa * inputa ;
+        float exponent = inputb;
+        if (exponent < 0) {
+            exponent = -exponent;
+        } // makes negative Exponent positive for the logic down there
+
+        result = 1;
+        for (int i = 0;i < inputb; i++) {
+            result = result * inputa ;
+        }
+        if (inputb < 0) {
+            result = 1.0 / result; // makes the positive Exponent negative again, because of up there
         }
     }
-    return result;
+    printf("The Result is: %lf\n", result);
 }
+
 
 //--------------------------------------------------
 //--------------------------------------------------
@@ -69,7 +80,7 @@ double calcsqrt(){
         diff = y - z;
         if (diff < 0) diff = -diff;
     }
-    return z;
+    printf("The Result is: %lf", z);
 }
 
 //-----------------------------------------
@@ -84,18 +95,12 @@ double faculty() {
             printf("Invalid Input, please Enter again:\n");
         } while (scanf("%lf", &inputa) != 1);
     }
-    int faculty = inputa;
-    for (int i = 1; i < inputa; i++ )
-        {     faculty *= i; }
-    return faculty;
-    // mein Gefallener Code🥀:
-    /*int result;
-    int i = inputa;
-    inputa = inputa -1;
-    result = i * inputa;
-    for (inputa == 0; --inputa;) {
+
+    int n = inputa;
+    int result = n;
+
+    for (int i = n-1; i > 2; i--) {
         result = result * inputa;
     }
-    return result;
-    */
+    printf("The Result is: %d", result);
 }
