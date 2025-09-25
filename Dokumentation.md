@@ -41,6 +41,75 @@ David:  U.I erstellen, Powerpoint machen und Dokumentation
 
 ->Wir entschieden uns für Schere, Stein, Papier.
 ## Realisieren
+## Aminas Code:
+
+
+#include <stdio.h>
+
+
+#include <stdlib.h>
+
+int grundrechner() {
+
+
+char operator;
+
+
+double current_result, next_number;
+
+
+    printf("Enter the first number: ");
+    if (scanf("%lf", &current_result) != 1) {
+        printf("Invalid input. Exiting.\n");
+        return 1;
+    }
+
+    printf("Result: %.2lf\n", current_result);
+
+    while(1) {
+
+        printf("Enter an operator (+, -, *, /) or '=' to finish: ");
+        scanf(" %c", &operator);
+
+        if (operator == '=') {
+            printf("Final result is: %.2lf\n", current_result);
+            break;
+        }
+
+        printf("Enter the next number: ");
+        if (scanf("%lf", &next_number) != 1) {
+            printf("Invalid input. Exiting.\n");
+            return 1;
+        }
+
+        switch(operator) {
+            case '+':
+                current_result += next_number;
+                printf("Result: %.2lf\n", current_result);
+                break;
+            case '-':
+                current_result -= next_number;
+                printf("Result: %.2lf\n", current_result);
+                break;
+            case '*':
+                current_result *= next_number;
+                printf("Result: %.2lf\n", current_result);
+                break;
+            case '/':
+                if (next_number != 0) {
+                    current_result /= next_number;
+                    printf("Result: %.2lf\n", current_result);
+                } else {
+                    printf("Error! Division by zero is not allowed.\n");
+
+                    break;
+                }
+                break;
+            default:
+                printf("Invalid operator entered. Please try again.\n");
+                break;
+        }
+    }
 
 ## Kontrollieren
 ### Testing Protokoll
@@ -66,3 +135,19 @@ In weiteren Projekten ist es sinnvoll, die Kommunikation beizubehalten, sie war 
 Ich finde es war zusätzlich sehr Praktisch in einer Gruppe zu arbeiten, in der sich alle gut verstehen. Dadurch gab es keine Streite, schlechte Laune oder Kommunikation.
 ### David 
 Weil ich letzte Woche, am Donnerstag und Freitag krank war, konnte ich erst diese Woche am Mittwoch anfangen. Ich habe versucht viel wie möglich zu helfen, desswegen habe ich das Menü vom Taschenrechner codiert und Powerpoint gemacht. Zum Glück gab es keine Schwierigkeiten. 
+### Amina 
+Ich finde, dass unser Zeitplan sehr gut eingehalten worden ist. Wir hatten unsere Termine sehr realistisch eingeplant und geraten deswegen nicht in den Zeitstress.
+
+Unser Code hat gut funktioniert und die Teamarbeit war sehr gut. Alle haben ihre Aufgaben erledigt und die auch gut. Ausserdem ist die Arbeit sehr fair aufgeteilt worden. Niemand hat das Projekt sozusagen ge-"carried" und wir konnten alle etwas beitragen.
+
+Es gab schwiereigkeiten in der Technik. Bei einigen, wie zum Beispiel bei mir, wollte der Code einfach nicht funktionieren. Nach vielem knobeln mit der lieben Julia, funktionierte er. Häufig war am Anfang das Problem, dass jemand nicht pushen/pullen konnte oder zu wenigb rechte hatte. Trotzdem kamen wir gut voran und gegen den Schluss waren wir alle komplett synchroniesiert.
+
+Ich schätze meinen Beitrag  als gut ein. Den Grundcalc habe nämlich ich (mithilfe von Google und Gemini) erstellt und es funktioniert auch sehr gut. Ausserdem habe ich zwischendurch auch mal geholfen wo ich konnte. Die Dokumentationsvorlage erstellt habe auch ich erstellt. Ich gab mir mühe und konnte gutes beitragen. Natürlich habe ich mir trotzdem Hilfe geholt!
+
+Die Gesamtleistung habe ich jetzt als fair und produktive empfunden. Jeder hatte was zu tun. Klar einige weniger als andere, aber das nur weil sie einen späten Start hatten (oder überhaupt nicht da waren). Ausserdem konnte ich vieles lernen und auch mein Grundwissen nochmals um einiges verbessern (ahem ahem schleifen). Jede Person hat ein Komponent beigetragen ohne den, das Ganze nicht funktionieren würde. Ich habe eher die Rolle eines Supports und Dirigents gespielt. Man kam zu mir nicht um konkrete Unterstützung sondern wahrscheinlich für kleine Hilfreiche Tipps, da ich noch nicht wirklich eine Ahnung habe. Ich muss aber sagen, dass diese Gruppe das angenehmste und produktivstes Team war in dem ich je gearbeitet habe.
+
+Die Kommunikation war sehr gut. Ich wusste genau an was alle waren und auch umgekehrt. Julian hat immer nachgefragt was alle am machen waren und wir haben uns in unserem Gruppenchat ständig ausgetauscht. Die Kommunikation war also definitiv da. Leider waren nicht alle präsent. Mit Ilija hatte ich zumindest überhaupt kein Kontakt.
+
+Für das nächste Mal sollte die Zusammenarbeit beibehalten werden. Ausserdem der Fleiss und die Kommunikation, da hauptsächlich durch das wir so weit voran kamen. Definitiv auch die Offenheit, da ich nie die Lust auf das Projekt wegen meinen Mitglieder verloren habe. Ausserdem konnten wir einander gut aushelfen und unterstützen.
+
+Die Konzentration könnte besser laufen und wir hätten mit der übrigen Zeit vielleicht etwas simples dazu tun. Ausserdem hätte ich besonders, weniger K.I benutzen können. Sonst habe ich ehrlichgesagt nichts zu melden, da diese Teamarbeit die Geschmeidigste Teamarbeit ist die ich je gemacht habe und ich wirklich glücklich mit unserem Endprodukt bin.
