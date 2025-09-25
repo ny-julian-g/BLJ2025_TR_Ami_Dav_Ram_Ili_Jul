@@ -21,7 +21,7 @@ double exponential(double inputa,double inputb) {
 }
 
 //--------------------------------------------------
-
+//--------------------------------------------------
 
 double calcsqrt(double inputa){
     if (inputa < 2)
@@ -41,8 +41,8 @@ double calcsqrt(double inputa){
     return z;
 }
 
-//---------------------------------
-
+//-----------------------------------------
+//-----------------------------------------
 double faculty(double inputa) {
     int faculty = inputa;
     for (int i = 2; i < inputa; i++ )
