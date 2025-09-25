@@ -27,18 +27,25 @@ double exponential() {
         } while (scanf("%lf", &inputb) != 1);
     }
 
-    if (inputb == 0) {
+    if (inputb <= 0) {
        result = 1;
     }
     else if (inputa == 0 ||inputa == 1) {
         result = inputa;
     }
+
     else {
-        for (0 == inputb; --inputb;) {
-            result = inputa * inputa ;
+        int exponent = inputb;
+        if (exponent < 0) {
+            exponent = -exponent;
+        }
+
+        result = 1;
+        for (int i = 0;i < exponent; i++) {
+            result = result * inputa ;
         }
     }
-    return result;
+    printf("The Result is: %lf\n", result);
 }
 
 //--------------------------------------------------
@@ -69,7 +76,7 @@ double calcsqrt(){
         diff = y - z;
         if (diff < 0) diff = -diff;
     }
-    return z;
+    printf("The Result is: %lf", z);
 }
 
 //-----------------------------------------
@@ -87,7 +94,7 @@ double faculty() {
     int faculty = inputa;
     for (int i = 1; i < inputa; i++ )
         {     faculty *= i; }
-    return faculty;
+    printf("The Result is: %lf", faculty);
     // mein Gefallener Code🥀:
     /*int result;
     int i = inputa;
