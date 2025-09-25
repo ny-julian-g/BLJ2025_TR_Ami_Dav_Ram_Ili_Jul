@@ -15,28 +15,6 @@ int hello() {
     printf("5 -> Rock, Paper, Scissors\n");
 
     scanf("%d", auswahl);
+    return auswahl;
 }
-switch(auswahl) {
-    case 1:
-        grundrechner();
-        break;
-    case 2:
-        exponential(1,1);
-        break;
-    case 3:
-        calcsqrt();
-        break;
-    case 4:
-        faculty();
-        break;
-    /*case 5:
-        spiel();
-        break;*/
-    default:
-        printf("Ungueltige Eingabe!\n");
 
-return 0;
-
-
-
-}
