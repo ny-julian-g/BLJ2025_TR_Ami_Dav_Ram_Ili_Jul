@@ -7,7 +7,7 @@
 int grundrechner() {
     char operator;
     double current_result, next_number;
-    char janein;
+
 
 
     printf("Enter the first number: ");
