@@ -8,9 +8,8 @@ double calcsqrt(double inputa);
 double faculty(double inputa);
 int hello();*/
 void main() {
-
-int auswahl = hello();
-    switch (auswahl){
+    int auswahl = hello();
+    switch (auswahl) {
         case 1:
             printf(">> Grundrechner gestartet!\n");
             grundrechner();
@@ -32,5 +31,5 @@ int auswahl = hello();
                 break;*/
         default:
             printf("Ungueltige Eingabe!\n");
-
+    }
 }
