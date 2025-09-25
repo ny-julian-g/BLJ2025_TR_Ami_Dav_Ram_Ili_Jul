@@ -8,7 +8,8 @@ double exponential() {
     double inputa;
     double inputb;
     double result;
-
+    char again = 'y';
+while (again == 'y') {
     printf("Enter the number, you wanna emPower\n");
     if (scanf("%lf", &inputa) == 1);
     else {
@@ -28,7 +29,7 @@ double exponential() {
     }
 
     if (inputb == 0) {
-       result = 1;
+        result = 1;
     }
     else if (inputa == 0 ||inputa == 1) {
         result = inputa;
@@ -48,59 +49,91 @@ double exponential() {
             result = 1.0 / result; // makes the positive Exponent negative again, because of up there
         }
     }
+    //-----------------
     printf("The Result is: %lf\n", result);
+    printf("do you want to calculate again? (y/any other)\n");
+    scanf(" %c", &again);
+    if ( again == 'Y' || again == 'y') {
+        again = 'y';
+        fflush(stdin);
+    }
+    else {
+        again = 'n';
+    }
 }
-
-
+}
 //--------------------------------------------------
 //--------------------------------------------------
 
 double calcsqrt(){
     double inputa;
-    printf("Enter the number, you wanna take the Root of:\n");
-    if (scanf("%lf", &inputa) == 1);
-    else {
-        do  {
-            fflush(stdin);
-            printf("Invalid Input, please Enter again:\n");
-        } while (scanf("%lf", &inputa) != 1);
-    }
+    char again = 'y';
+    while (again == 'y') {
+        printf("Enter the number, you wanna take the Root of:\n");
+        if (scanf("%lf", &inputa) == 1);
+        else {
+            do  {
+                fflush(stdin);
+                printf("Invalid Input, please Enter again:\n");
+            } while (scanf("%lf", &inputa) != 1);
+        }
 
-    if (inputa < 2)
-        return inputa;
+        if (inputa < 2)
+            return inputa;
 
-    double y = inputa;
-    double z = (y + (inputa / y)) / 2;
+        double y = inputa;
+        double z = (y + (inputa / y)) / 2;
 
-    double diff = y - z;
-    if (diff < 0) diff = -diff;
-    while (diff >= 0.00001) {
-        y = z;
-        z = (y + (inputa / y)) / 2;
-        diff = y - z;
+        double diff = y - z;
         if (diff < 0) diff = -diff;
+        while (diff >= 0.00001) {
+            y = z;
+            z = (y + (inputa / y)) / 2;
+            diff = y - z;
+            if (diff < 0) diff = -diff;
+        }
+        printf("The Result is: %lf\n", z);
+        printf("do you want to calculate again? (y/any other)\n");
+        scanf(" %c", &again);
+        if ( again == 'Y' || again == 'y') {
+            again = 'y';
+            fflush(stdin);
+        }
+        else {
+            again = 'n';
+        }
     }
-    printf("The Result is: %lf", z);
 }
-
 //-----------------------------------------
 //-----------------------------------------
 double faculty() {
     double inputa;
-    printf("Enter the number, whose faculty you wanna know:\n");
-    if (scanf("%lf", &inputa) == 1);
-    else {
-        do  {
+    char again = 'y';
+    while (again == 'y') {
+        printf("Enter the number, whose faculty you wanna know:\n");
+        if (scanf("%lf", &inputa) == 1);
+        else {
+            do  {
+                fflush(stdin);
+                printf("Invalid Input, please Enter again:\n");
+            } while (scanf("%lf", &inputa) != 1);
+        }
+        int n = inputa;
+        int result = n;
+
+        for (int i = n-1; i > 2; i--) {
+            result = result * inputa;
+        }
+        printf("The Result is: %d\n", result);
+        printf("do you want to calculate again? (y/any other)\n");
+        scanf(" %c", &again);
+        if ( again == 'Y' || again == 'y') {
+            again = 'y';
             fflush(stdin);
-            printf("Invalid Input, please Enter again:\n");
-        } while (scanf("%lf", &inputa) != 1);
+        }
+        else {
+            again = 'n';
+        }
     }
 
-    int n = inputa;
-    int result = n;
-
-    for (int i = n-1; i > 2; i--) {
-        result = result * inputa;
-    }
-    printf("The Result is: %d", result);
 }

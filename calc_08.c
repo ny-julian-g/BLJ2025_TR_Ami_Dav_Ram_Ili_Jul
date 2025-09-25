@@ -11,10 +11,17 @@ int grundrechner() {
 
 
     printf("Enter the first number: ");
-    if (scanf("%lf", &current_result) != 1) {
+    if (scanf("%lf", &current_result) == 1);
+    else {
+        do  {
+            fflush(stdin);
+            printf("Invalid Input, please Enter again:\n");
+        } while (scanf("%lf", &current_result) != 1);
+    }
+    /*if (scanf("%lf", &current_result) != 1) {
         printf("Invalid input. Exiting.\n");
         return 1;
-    }
+    }*/
 
     printf("Result: %.2lf\n", current_result);
 
@@ -29,10 +36,17 @@ int grundrechner() {
         }
 
         printf("Enter the next number: ");
-        if (scanf("%lf", &next_number) != 1) {
+        if (scanf("%lf", &next_number) == 1);
+        else {
+            do  {
+                fflush(stdin);
+                printf("Invalid Input, please Enter again:\n");
+            } while (scanf("%lf", &next_number) != 1);
+        }
+        /*if (scanf("%lf", &next_number) != 1) {
             printf("Invalid input. Exiting.\n");
             return 1;
-        }
+        }*/
 
         switch(operator) {
             case '+':
