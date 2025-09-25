@@ -15,8 +15,7 @@
 9. Testingprotokoll
 10. Reflexion
 11. DoD
-### Deadlines
-#### 19.09 Rolle zuteilen:
+
 ### Rollen
 Julian: Grundtaschenrechner -> Potenzen und Wurzeln und die Fakultät  
 Ramon: Scheren, Stein, Papier programmiert und das Testing Protokoll gemacht

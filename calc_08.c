@@ -10,7 +10,7 @@ int grundrechner() {
 
 
 
-    printf("Enter the first number: ");
+    printf("Enter the first number: \n");
     if (scanf("%lf", &current_result) == 1);
     else {
         do  {
@@ -27,7 +27,7 @@ int grundrechner() {
 
     while(1) {
 
-        printf("Enter an operator (+, -, *, /) or '=' to finish: ");
+        printf("Enter an operator (+, -, *, /) or '=' to finish: \n");
         scanf(" %c", &operator);
 
         if (operator == '=') {
@@ -35,7 +35,7 @@ int grundrechner() {
             break;
         }
 
-        printf("Enter the next number: ");
+        printf("Enter the next number: \n");
         if (scanf("%lf", &next_number) == 1);
         else {
             do  {
