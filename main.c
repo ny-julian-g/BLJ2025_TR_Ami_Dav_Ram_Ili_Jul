@@ -17,7 +17,7 @@ int auswahl = hello();
             break;
         case 2:
             printf(">> Exponential gestartet");
-            exponential(1,1);
+            exponential();
             break;
         case 3:
             printf(">> Wurzel Berechnung gestartet!\n");

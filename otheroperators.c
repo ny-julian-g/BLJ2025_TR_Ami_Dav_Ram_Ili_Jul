@@ -4,7 +4,9 @@
 #include <stdio.h>
 #include "otheroperators.h"
 
-double exponential(double inputa,double inputb) {
+double exponential() {
+    double inputa;
+    double inputb;
     double result;
     if (inputb == 0) {
        result = 1;
@@ -23,7 +25,8 @@ double exponential(double inputa,double inputb) {
 //--------------------------------------------------
 //--------------------------------------------------
 
-double calcsqrt(double inputa){
+double calcsqrt(){
+    double inputa;
     if (inputa < 2)
         return inputa;
 
@@ -43,7 +46,8 @@ double calcsqrt(double inputa){
 
 //-----------------------------------------
 //-----------------------------------------
-double faculty(double inputa) {
+double faculty() {
+    double inputa;
     int faculty = inputa;
     for (int i = 2; i < inputa; i++ )
         {     faculty *= i; }
