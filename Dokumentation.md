@@ -22,7 +22,7 @@ Julian: Grundtaschenrechner -> Potenzen und Wurzeln und die Fakultät
 Ramon: Scheren, Stein, Papier programmiert  
 Amina: Grundtaschenrechner -> Plus und Minus, Multiplikation und Division   
 *(Ilija:  = nicht präsent* )  
-David:  U.I erstellen und die Powerpoint machen
+David:  U.I erstellen, Powerpoint machen und Dokumentation
 ##### Deadlines
 *19.09* extra feature auswähllen  
 *(19.09 Grundrechner erstellen)*  

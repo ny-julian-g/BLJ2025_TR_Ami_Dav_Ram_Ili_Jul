@@ -21,9 +21,7 @@ int main(void) {
             printf(">> Fakultät Berechnung gestartet!\n");
             faculty();
             break;
-            /*case 5:
-                spiel();
-                break;*/
+
         default:
             printf("Ungueltige Eingabe!\n");
     }
