@@ -7,7 +7,6 @@
 
 int hello() {
     int auswahl = 0;
-    printf("Hello\n\n");
     printf(" __      __       .__                                             \n");
     printf("/  \\    /  \\ ____ |  |   ____  ____   _____   ____               \n");
     printf("\\   \\/\\/   // __ \\|  | _/ ___\\/  _ \\ /     \\_/ __ \\              \n");
