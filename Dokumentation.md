@@ -20,7 +20,7 @@
 Julian: Grundtaschenrechner -> Potenzen und Wurzeln und die Fakultät  
 Ramon: Scheren, Stein, Papier programmiert und das Testing Protokoll gemacht
 Amina: Grundtaschenrechner -> Plus und Minus, Multiplikation und Division   
-*(Ilija:  = nicht präsent* )  
+*(Ilija:  = nicht präsent)*
 David:  U.I erstellen, Powerpoint machen und Dokumentation
 ##### Deadlines
 *19.09* extra feature auswähllen  
@@ -38,7 +38,7 @@ David:  U.I erstellen, Powerpoint machen und Dokumentation
 ##### C: 1.2.4 Wahlfeature-Block "Life" Science
 ##### D: 1.2.5 Wahlfeature-Block Scheren-Stein-Papier
 
-->Wir entschieden uns für Schere, Stein, Papier.
+Wir entschieden uns für Schere, Stein, Papier.
 ## Realisieren
 ## Aminas Code:
 
