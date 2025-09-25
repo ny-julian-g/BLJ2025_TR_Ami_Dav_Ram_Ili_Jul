@@ -1,4 +1,4 @@
-# Calculator_Team8
+
 # Dokumentation per IPERKA
 ## Informieren
  Wir mussten noch einige Dinge klären wie zum Beispiel wie viele Features wir implementieren müssen. Es gibt verschiedene Wahlfeature-Blöcke und wir brauchen mindestens ein zusätzliches Feature. Wir mussten noch klären was ein Fakultät ist (mit K.I natürlich).
@@ -38,6 +38,8 @@ David:  U.I erstellen, Powerpoint machen und Dokumentation
 ##### B: 1.2.3 Wahlfeature-Block Algebra
 ##### C: 1.2.4 Wahlfeature-Block "Life" Science
 ##### D: 1.2.5 Wahlfeature-Block Scheren-Stein-Papier
+
+->Wir entschieden uns für Schere, Stein, Papier.
 ## Realisieren
 
 ## Kontrollieren
