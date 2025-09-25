@@ -33,7 +33,7 @@ David:  U.I erstellen, Powerpoint machen und Dokumentation
 *26.09* Reflexion und Präsentation erstellen  
 
 ## Entscheiden
-### Entscheidungsmatrix![img.png](img.png)
+### Entscheidungsmatrix ![img.png](img.png)
 ##### A: 1.2.2 Wahlfeature-Block Geometrie
 ##### B: 1.2.3 Wahlfeature-Block Algebra
 ##### C: 1.2.4 Wahlfeature-Block "Life" Science
@@ -48,3 +48,21 @@ David:  U.I erstellen, Powerpoint machen und Dokumentation
 Das Projekt zum Programmieren eines Taschenrechners verlief insgesamt sehr gut.
 Alle grundlegenden Funktionen wie Addition, Subtraktion, Multiplikation und Division konnten erfolgreich umgesetzt werden. Auch die Eingabe und Ausgabe der Werte hat reibungslos funktioniert.
 ### Selbstkritische Reflexion
+### Julian
+**Selbstkritische Reflexion:**
+
+Wir konnten uns gut an den Zeitplan halten und hatten sogar immer etwas Puffer, der uns eine psychologische Stärkung war. Wir haben uns zu Beginn genug Zeit genommen, einen guten Plan zu erstellen und besprachen auch oft zwischen durch, was zu tun ist. Dadurch waren wir organisatorisch stabil unterwegs und konnten mit genügend Zeit auf Probleme reagieren. 
+
+ Schwierigkeiten hatte ich zum einen, beim verstehen von Logiken, für die Wurzel, Potenz und Fakultät. Da musste ich mir auch zusätzliche Hilfe von Kollegen und KI holen, vor allem bei den Wurzel hatte ich Schwierigkeiten. Es war zudem umständlich alles bei jedem aktuell zu behalten, da wir minimale Unterschiede in der Entwicklungsumgebung hatten. Das erstellte einen nervigen Error, den wir dank Julia lösen konnten.
+
+ Ich habe das Gefühl, dass ich niemanden ablenkte und mich gut fokussieren konnte. Ich habe meinen eingeteilten Auftrag gemacht, finde jedoch, es wäre gut, dass man ein Resultat aus den Potenz, Wurzel oder Fakultät in anderen Rechner auch benutzen könnte, oder sogar im gleichen Rechner ist. Ich bin mir nicht ganz sicher, ob das im Auftrag so gewünscht ist und jetzt wäre es zu knapp, noch grosse Änderungen durchzuführen. Das könnte ich auch beim nächsten mal mitnehmen: Ich schaue bereits am Anfang beim Informieren, mich informieren, was wichtig ist.
+
+Allgemein glaube ich, dass wir einen soliden, funktionsfähigen Taschenrechner programmiert, der sauber läuft.  Das heisst, wir haben den Auftrag erfüllt, zwar haben wir nicht alle Zusatzfunktionen drin, jedoch haben wir das, was wir haben müssen und bin damit zufrieden. Auch von der Planung und der Dokumentation her, würde ich sagen, haben wir unseren Auftrag erfüllt.
+
+Wie schon erwähnt, finde ich, dass wir eine sehr gute Kommunikation in unserer Gruppe hatten, die uns einen Vorteil erschuf.
+
+In weiteren Projekten ist es sinnvoll, die Kommunikation beizubehalten, sie war ausschlaggebend, um  Missverständnisse zu vermeiden und dass wir auf Fehler reagieren konnten. Wir könnten klarer bestimmen, wie wir uns das Repository aufteilen, um Probleme im GitHub zu vermindern. Das ist zur Zeit noch schwierig, da wir noch unerfahren mit GitHub sind und es nicht optimal nutzen können.
+
+Ich finde es war zusätzlich sehr Praktisch in einer Gruppe zu arbeiten, in der sich alle gut verstehen. Dadurch gab es keine Streite, schlechte Laune oder Kommunikation.
+### David 
+Weil ich letzte Woche, am Donnerstag und Freitag krank war, konnte ich erst diese Woche am Mittwoch anfangen. Ich habe versucht viel wie möglich zu helfen, desswegen habe ich das Menü vom Taschenrechner codiert und Powerpoint gemacht. Zum Glück gab es keine Schwierigkeiten. 
