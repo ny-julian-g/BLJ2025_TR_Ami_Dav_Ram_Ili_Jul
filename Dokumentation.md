@@ -43,4 +43,6 @@ David:  U.I erstellen, Powerpoint machen und Dokumentation
 ## Kontrollieren
 ### Testing Protokoll
 ## Auswerten
+Das Projekt zum Programmieren eines Taschenrechners verlief insgesamt sehr gut.
+Alle grundlegenden Funktionen wie Addition, Subtraktion, Multiplikation und Division konnten erfolgreich umgesetzt werden. Auch die Eingabe und Ausgabe der Werte hat reibungslos funktioniert.
 ### Selbstkritische Reflexion

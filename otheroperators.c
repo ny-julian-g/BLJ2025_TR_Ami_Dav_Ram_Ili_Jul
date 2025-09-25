@@ -95,18 +95,12 @@ double faculty() {
             printf("Invalid Input, please Enter again:\n");
         } while (scanf("%lf", &inputa) != 1);
     }
-    int faculty = inputa;
-    for (int i = 1; i < inputa; i++ )
-        {     faculty *= i; }
-    printf("The Result is: %lf", faculty);
-    // mein Gefallener Code🥀:
-    /*int result;
-    int i = inputa;
-    inputa = inputa -1;
-    result = i * inputa;
-    for (inputa == 0; --inputa;) {
+
+    int n = inputa;
+    int result = n;
+
+    for (int i = n-1; i > 2; i--) {
         result = result * inputa;
     }
-    return result;
-    */
+    printf("The Result is: %d", result);
 }
