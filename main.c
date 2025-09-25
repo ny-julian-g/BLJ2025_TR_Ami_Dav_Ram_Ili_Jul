@@ -2,7 +2,7 @@
 #include "otheroperators.h"
 #include "calc_08.h"
 #include "hello.h"
-void main() {
+int main(void) {
     int auswahl = hello();
     switch (auswahl) {
         case 1:
@@ -10,7 +10,7 @@ void main() {
             grundrechner();
             break;
         case 2:
-            printf(">> Exponential gestartet");
+            printf(">> Exponential gestartet\n");
             exponential();
             break;
         case 3:
