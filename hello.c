@@ -14,7 +14,7 @@ int hello() {
     printf("4 -> Fakultaet\n");
     printf("5 -> Rock, Paper, Scissors\n");
 
-    scanf("%d", auswahl);
+    scanf("%d", &auswahl);
     return auswahl;
 }
 
