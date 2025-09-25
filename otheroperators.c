@@ -103,5 +103,4 @@ double faculty() {
         result = result * inputa;
     }
     printf("The Result is: %d", result);
-
 }
