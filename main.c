@@ -2,15 +2,29 @@
 #include "otheroperators.h"
 #include "calc_08.h"
 #include "hello.h"
-/*int grundrechner();
-double exponential(double inputa,double inputb);
-double calcsqrt(double inputa);
-double faculty(double inputa);
-int hello();*/
 void main() {
- int choice = hello();
- switch (choice) {
-  case 1:
-   grundrechner();
- }
+    int auswahl = hello();
+    switch (auswahl) {
+        case 1:
+            printf(">> Grundrechner gestartet!\n");
+            grundrechner();
+            break;
+        case 2:
+            printf(">> Exponential gestartet");
+            exponential();
+            break;
+        case 3:
+            printf(">> Wurzel Berechnung gestartet!\n");
+            calcsqrt();
+            break;
+        case 4:
+            printf(">> Fakultät Berechnung gestartet!\n");
+            faculty();
+            break;
+            /*case 5:
+                spiel();
+                break;*/
+        default:
+            printf("Ungueltige Eingabe!\n");
+    }
 }

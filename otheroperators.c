@@ -4,8 +4,29 @@
 #include <stdio.h>
 #include "otheroperators.h"
 
-double exponential(double inputa,double inputb) {
+double exponential() {
+    double inputa;
+    double inputb;
     double result;
+
+    printf("Enter the number, you wanna emPower\n");
+    if (scanf("%lf", &inputa) == 1);
+    else {
+        do  {
+            fflush(stdin);
+            printf("Invalid Input, please Enter again:\n");
+        } while (scanf("%lf", &inputa) != 1);
+    }
+
+    printf("Enter the number, that should be your exponential\n");
+    if (scanf("%lf", &inputb) == 1);
+    else {
+        do  {
+            fflush(stdin);
+            printf("Invalid Input, please Enter again:\n");
+        } while (scanf("%lf", &inputb) != 1);
+    }
+
     if (inputb == 0) {
        result = 1;
     }
@@ -21,9 +42,19 @@ double exponential(double inputa,double inputb) {
 }
 
 //--------------------------------------------------
+//--------------------------------------------------
 
+double calcsqrt(){
+    double inputa;
+    printf("Enter the number, you wanna take the Root of:\n");
+    if (scanf("%lf", &inputa) == 1);
+    else {
+        do  {
+            fflush(stdin);
+            printf("Invalid Input, please Enter again:\n");
+        } while (scanf("%lf", &inputa) != 1);
+    }
 
-double calcsqrt(double inputa){
     if (inputa < 2)
         return inputa;
 
@@ -41,11 +72,20 @@ double calcsqrt(double inputa){
     return z;
 }
 
-//---------------------------------
-
-double faculty(double inputa) {
+//-----------------------------------------
+//-----------------------------------------
+double faculty() {
+    double inputa;
+    printf("Enter the number, whose faculty you wanna know:\n");
+    if (scanf("%lf", &inputa) == 1);
+    else {
+        do  {
+            fflush(stdin);
+            printf("Invalid Input, please Enter again:\n");
+        } while (scanf("%lf", &inputa) != 1);
+    }
     int faculty = inputa;
-    for (int i = 2; i < inputa; i++ )
+    for (int i = 1; i < inputa; i++ )
         {     faculty *= i; }
     return faculty;
     // mein Gefallener Code🥀:
