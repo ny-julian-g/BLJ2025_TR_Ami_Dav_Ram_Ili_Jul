@@ -2,6 +2,7 @@
 #include "otheroperators.h"
 #include "calc_08.h"
 #include "hello.h"
+#include "Rock, Paper, Scissors.h"
 int main(void) {
     int auswahl = hello();
     switch (auswahl) {
@@ -20,6 +21,10 @@ int main(void) {
         case 4:
             printf(">> Fakultaet Berechnung gestartet!\n");
             faculty();
+            break;
+        case 5:
+            printf(">> Rock, Paper, Scissors gestartet\n");
+            rps();
             break;
 
         default:
