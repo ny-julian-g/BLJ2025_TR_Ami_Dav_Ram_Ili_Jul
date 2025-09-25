@@ -18,7 +18,7 @@ int main(void) {
             calcsqrt();
             break;
         case 4:
-            printf(">> Fakultät Berechnung gestartet!\n");
+            printf(">> Fakultaet Berechnung gestartet!\n");
             faculty();
             break;
 
