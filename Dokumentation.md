@@ -33,7 +33,7 @@ David:  U.I erstellen, Powerpoint machen und Dokumentation
 *26.09* Reflexion und Präsentation erstellen  
 
 ## Entscheiden
-### Entscheidungsmatrix![img.png](img.png)
+### Entscheidungsmatrix ![img.png](img.png)
 ##### A: 1.2.2 Wahlfeature-Block Geometrie
 ##### B: 1.2.3 Wahlfeature-Block Algebra
 ##### C: 1.2.4 Wahlfeature-Block "Life" Science
