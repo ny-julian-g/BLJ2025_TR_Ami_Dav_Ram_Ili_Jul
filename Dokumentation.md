@@ -201,8 +201,26 @@ Wie schon erwähnt, finde ich, dass wir eine sehr gute Kommunikation in unserer 
 In weiteren Projekten ist es sinnvoll, die Kommunikation beizubehalten, sie war ausschlaggebend, um  Missverständnisse zu vermeiden und dass wir auf Fehler reagieren konnten. Wir könnten klarer bestimmen, wie wir uns das Repository aufteilen, um Probleme im GitHub zu vermindern. Das ist zur Zeit noch schwierig, da wir noch unerfahren mit GitHub sind und es nicht optimal nutzen können.
 
 Ich finde es war zusätzlich sehr Praktisch in einer Gruppe zu arbeiten, in der sich alle gut verstehen. Dadurch gab es keine Streite, schlechte Laune oder Kommunikation.
+
+
 ### David 
-Weil ich letzte Woche, am Donnerstag und Freitag krank war, konnte ich erst diese Woche am Mittwoch anfangen. Ich habe versucht viel wie möglich zu helfen, desswegen habe ich das Menü vom Taschenrechner codiert und Powerpoint gemacht. Zum Glück gab es keine Schwierigkeiten. 
+Weil ich letzte Woche, am Donnerstag und Freitag krank war, konnte ich erst diese Woche am Mittwoch anfangen. Ich habe versucht viel wie möglich zu helfen, desswegen habe ich das Menü vom Taschenrechner codiert und Powerpoint gemacht.
+Die Umsetzung verlief ohne größere Schwierigkeiten, da die Aufgaben klar verteilt waren und alle zuverlässig gearbeitet haben.
+
+Auch die Zusammenarbeit im Team war sehr angenehm. 
+Wir haben offen und regelmäßig kommuniziert, wodurch Missverständnisse vermieden werden konnten. 
+
+Besonders positiv war die klare Struktur und Aufgabenverteilung, die wir in dieser Arbeit genutzt haben. 
+
+Für zukünftige Projekte möchte ich mir wünschen, dass wir diese gute Zusammenarbeit beibehalten. 
+
+Als kleinen Verbesserungspunkt sehe ich, dass wir vielleicht noch mehr Zwischenschritte oder Checkpoints einplanen könnten, um den Fortschritt kontinuierlich im Blick zu behalten. 
+
+Darüber hinaus habe ich durch die Arbeit auch meine Kenntnisse in der Programmiersprache C vertieft und gemerkt, wie wichtig es ist, den Code nicht nur funktionsfähig, sondern auch verständlich und gut dokumentiert zu gestalten. Das hat den Austausch in der Gruppe erleichtert und gleichzeitig dafür gesorgt, dass alle einen Überblick über den Entwicklungsstand behalten konnten. 
+
+Insgesamt war die Arbeit für mich nicht nur erfolgreich, sondern auch eine gute Gelegenheit, praktische Erfahrungen in der Teamarbeit und im Programmieren zu sammeln.
+
+
 ### Amina 
 Ich finde, dass unser Zeitplan sehr gut eingehalten worden ist. Wir hatten unsere Termine sehr realistisch eingeplant und geraten deswegen nicht in den Zeitstress.
 
