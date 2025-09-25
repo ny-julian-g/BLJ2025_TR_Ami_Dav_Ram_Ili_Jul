@@ -19,7 +19,7 @@
 #### 19.09 Rolle zuteilen:
 ### Rollen
 Julian: Grundtaschenrechner -> Potenzen und Wurzeln und die Fakultät  
-Ramon: Scheren, Stein, Papier programmiert  
+Ramon: Scheren, Stein, Papier programmiert und das Testing Protokoll gemacht
 Amina: Grundtaschenrechner -> Plus und Minus, Multiplikation und Division   
 *(Ilija:  = nicht präsent* )  
 David:  U.I erstellen, Powerpoint machen und Dokumentation

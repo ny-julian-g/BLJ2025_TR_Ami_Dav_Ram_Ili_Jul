@@ -3,9 +3,12 @@
 //
 #include <stdio.h>
 #include <stdlib.h>
+
 int grundrechner() {
     char operator;
     double current_result, next_number;
+    char janein;
+
 
     printf("Enter the first number: ");
     if (scanf("%lf", &current_result) != 1) {
@@ -59,8 +62,6 @@ int grundrechner() {
                 break;
         }
     }
-
-    return 0;
 }
 
 //#include "calc_08.h"
