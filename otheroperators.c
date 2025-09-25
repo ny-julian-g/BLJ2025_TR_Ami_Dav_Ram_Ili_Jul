@@ -27,7 +27,7 @@ double exponential() {
         } while (scanf("%lf", &inputb) != 1);
     }
 
-    if (inputb <= 0) {
+    if (inputb == 0) {
        result = 1;
     }
     else if (inputa == 0 ||inputa == 1) {
@@ -35,18 +35,22 @@ double exponential() {
     }
 
     else {
-        int exponent = inputb;
+        float exponent = inputb;
         if (exponent < 0) {
             exponent = -exponent;
-        }
+        } // makes negative Exponent positive for the logic down there
 
         result = 1;
-        for (int i = 0;i < exponent; i++) {
+        for (int i = 0;i < inputb; i++) {
             result = result * inputa ;
+        }
+        if (inputb < 0) {
+            result = 1.0 / result; // makes the positive Exponent negative again, because of up there
         }
     }
     printf("The Result is: %lf\n", result);
 }
+
 
 //--------------------------------------------------
 //--------------------------------------------------
