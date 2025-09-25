@@ -2,11 +2,6 @@
 #include "otheroperators.h"
 #include "calc_08.h"
 #include "hello.h"
-/*int grundrechner();
-double exponential(double inputa,double inputb);
-double calcsqrt(double inputa);
-double faculty(double inputa);
-int hello();*/
 void main() {
     int auswahl = hello();
     switch (auswahl) {
