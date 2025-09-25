@@ -48,3 +48,5 @@ David:  U.I erstellen, Powerpoint machen und Dokumentation
 Das Projekt zum Programmieren eines Taschenrechners verlief insgesamt sehr gut.
 Alle grundlegenden Funktionen wie Addition, Subtraktion, Multiplikation und Division konnten erfolgreich umgesetzt werden. Auch die Eingabe und Ausgabe der Werte hat reibungslos funktioniert.
 ### Selbstkritische Reflexion
+### David 
+Weil ich letzte Woche, am Donnerstag und Freitag krank war, konnte ich erst diese Woche am Mittwoch anfangen. Ich habe versucht viel wie möglich zu helfen, desswegen habe ich das Menü vom Taschenrechner codiert und Powerpoint gemacht. Zum Glück gab es keine Schwierigkeiten. 
