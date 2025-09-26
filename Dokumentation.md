@@ -118,3 +118,6 @@ Der Zeitplan wurde meiner Meinung nach gut eingehalten. Die Grundstruktur war in
 
 
 •	Wir könnten konzentrierter arbeiten. Und uns weniger über nicht Firmen interne Gespräche austauschen.
+
+### Reflexion
+![img_6.png](img_6.png)
