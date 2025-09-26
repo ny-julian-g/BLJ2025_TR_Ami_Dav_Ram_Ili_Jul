@@ -100,7 +100,7 @@ Die Kommunikation war sehr gut. Ich wusste genau an was alle waren und auch umge
 Für das nächste Mal sollte die Zusammenarbeit beibehalten werden. Ausserdem der Fleiss und die Kommunikation, da hauptsächlich durch das wir so weit voran kamen. Definitiv auch die Offenheit, da ich nie die Lust auf das Projekt wegen meinen Mitglieder verloren habe. Ausserdem konnten wir einander gut aushelfen und unterstützen.
 
 Die Konzentration könnte besser laufen und wir hätten mit der übrigen Zeit vielleicht etwas simples dazu tun. Ausserdem hätte ich besonders, weniger K.I benutzen können. Sonst habe ich ehrlichgesagt nichts zu melden, da diese Teamarbeit die Geschmeidigste Teamarbeit ist die ich je gemacht habe und ich wirklich glücklich mit unserem Endprodukt bin.
-###Ramon
+### Ramon
 Der Zeitplan wurde meiner Meinung nach gut eingehalten. Die Grundstruktur war innerhalb der abgemachten Zeit fertig.
 •	Ich finde, dass wir alle sehr gut zusammengearbeitet haben. Wir haben die Arbeit gut aufgeteilt und haben uns gegenseitig gut unterstützt.
 
