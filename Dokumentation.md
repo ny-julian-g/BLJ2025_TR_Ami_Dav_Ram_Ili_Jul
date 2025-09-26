@@ -41,7 +41,7 @@ David:  U.I erstellen, Powerpoint machen und Dokumentation
 Wir entschieden uns für Schere, Stein, Papier.
 ## Realisieren
 ### Aminas Code:
-Ich habe zuerst nachgeschaut wie  
+Ich habe zuerst nachgeschaut wie man überhaupt plus Rechnungen im C durchführen kann und habe dann auf mein ganz primitives Programm aufgebaut. Bei Fragen wendete ich mich an meine Gruppenmitglieder. Wenn sie nicht helfen konnten ging ich zu einem Ausbildner oder die K.I. Ansonsten versuchte ich den Code selbst zu machen. Mein Code war aber sehr limitiert und man konnte nur zwei Zahlen miteinander addieren oder subtrahieren. Also musste ich mein Code neu denken und einen Weg finden, der mehrere Zahlen erlaubt. Bei diesem Schriit liess ich die K.I mir helfen.
 ## Kontrollieren
 ### Testing Protokoll
 ![img_6.png](img_6.png)
