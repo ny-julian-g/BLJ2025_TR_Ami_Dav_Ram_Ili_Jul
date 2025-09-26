@@ -47,8 +47,8 @@ Ich habe zuerst nachgeschaut wie man überhaupt plus Rechnungen im C durchführe
 
 ### Davids Code: 
 Weil ich krank war, als meine Gruppe den Auftrag gestartet hat, habe ich mir alles vom Julian erklären lassen. Mein Auftrag war, das Menü vom Taschenrechner zu machen. Gleich setzte ich mich an den Auftrag und rechechierte und fragte, wie man ein Menü machen kann. Ich habe nicht lange gebraucht, desswegen habe ich ebenfalls die Powerpoint gemacht und bei der Dokumentation so viel wie möglich mit zu helfen. Beim Codieren, habe ich viel gelernt. 
-
-
+### Julians Code:
+Um Potenzen, Wurzeln und Fakultäten zu rechnen, muss man ein tieferes Verständniss darin haben, was bei diesen Operatoren genau gerechnet wird. Das habe ich zu erst selbst versucht, was bei den Pozenzen noch einigermassen funktionierte. Als ich bei den Wurzeln ankam, war ich auf externe Hilfe angewiesen, genau so wie bei der logik mit Potenzen im Minus. Ich fragte Kollegen oder die KI, wenn ich Buggs hatte, musste/durfte ich jedoch meistens zu den Berufsbildner. Ich habe es so gestalltet, dass man die Funktion mehrmals starten kann. Leider bin ich zu spät darauf gekommen, dass ich auch von mehreren Zahlen zum Beispiel die Wurzel ziehen könnte, in einer Rechnung. Leider hatte ich da schon zu wenig Zeit, um das noch anzupassen.   
 
 ## Kontrollieren
 ### Testing Protokoll
