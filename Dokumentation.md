@@ -40,6 +40,8 @@ David:  U.I erstellen, Powerpoint machen und Dokumentation
 
 Wir entschieden uns für Schere, Stein, Papier.
 ## Realisieren
+###Ramon Realisieren
+Ich war für das Rock Paper Scissor zuständig und habe es erfolgreich abgeschlossen. Ich habe zuerst nachgeschaut wie man einen Zufallsgenerator machen kann. Danach habe ich alle möglichkeiten in einem eigenen IF Statement aufgeschrieben. Danach ist mir aufgefallen, dass man das viel einfacher machen kann. Wenn ich probleme oder unklahrheiten hatte wendete ich mich an meine Teammitglieder wenn sie mir nicht helfen konnten dann habe ich mich an die Ausbildner gewendet.
 ### Aminas Code:
 Ich habe zuerst nachgeschaut wie man überhaupt plus Rechnungen im C durchführen kann und habe dann auf mein ganz primitives Programm aufgebaut. Bei Fragen wendete ich mich an meine Gruppenmitglieder. Wenn sie nicht helfen konnten ging ich zu einem Ausbildner oder die K.I. Ansonsten versuchte ich den Code selbst zu machen. Mein Code war aber sehr limitiert und man konnte nur zwei Zahlen miteinander addieren oder subtrahieren. Also musste ich mein Code neu denken und einen Weg finden, der mehrere Zahlen erlaubt. Bei diesem Schriit liess ich die K.I mir helfen.
 ## Kontrollieren
