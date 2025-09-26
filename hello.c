@@ -33,7 +33,7 @@ int hello() {
     printf("5 -> Rock, Paper, Scissors\n");
 
     scanf("%d", &auswahl);
-    if (auswahl < 1 && auswahl > 5);
+    if (auswahl >= 1 && auswahl <= 5);
     else {
         int i = 0;
         do {
