@@ -18,7 +18,7 @@
 
 ### Rollen
 Julian: Grundtaschenrechner -> Potenzen und Wurzeln und die Fakultät  
-Ramon: Scheren, Stein, Papier programmiert und das Testing Protokoll gemacht / Return to     
+Ramon: Scheren, Stein, Papier programmiert und das Testing Protokoll gemacht / Return to         
 Amina: Grundtaschenrechner -> Plus und Minus, Multiplikation und Division   
 *(Ilija:  = nicht präsent)*
 David:  U.I erstellen, Powerpoint machen und Dokumentation
@@ -41,7 +41,7 @@ David:  U.I erstellen, Powerpoint machen und Dokumentation
 Wir entschieden uns für Schere, Stein, Papier.
 ## Realisieren
 ### Aminas Code:
-Ich habe zuerst nachgeschaut wie man überhaupt die Grundoperationen durchführen kann in dem C Programm. Dann hab ich die Fehler von K.I korrigieren lassen, falls mir Julian oder sonst jemand nicht helfen konnte. Dann stellte sich heraus, dass unser Taschenrechner mehr als zwei Zahlen addieren oder subtrahieren können müsse. Also musste ich den Code nochmal neu denken und habe dann (mithilfe von K.I) einen ähnlichen Code gemacht wie viele andere Gruppen. Ausserdem haben ich und Ramon noch ein Loop im Menu erstellt, damit man wieder auf das Menu zurückgreifen kann.  
+Ich habe zuerst nachgeschaut wie  
 ## Kontrollieren
 ### Testing Protokoll
 ## Auswerten
@@ -127,3 +127,6 @@ Der Zeitplan wurde meiner Meinung nach gut eingehalten. Die Grundstruktur war in
 
 
 •	Wir könnten konzentrierter arbeiten. Und uns weniger über nicht Firmen interne Gespräche austauschen.
+
+### Reflexion
+![img_6.png](img_6.png)

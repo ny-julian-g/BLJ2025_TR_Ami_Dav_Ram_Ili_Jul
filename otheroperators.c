@@ -136,8 +136,7 @@ double faculty() {
         }
     }
 
-<<<<<<< Updated upstream
-=======
+
     int n = inputa;
     int result = n;
 
@@ -145,5 +144,5 @@ double faculty() {
         result = result * inputa;
     }
     printf("The Result is: %d\n", result);
->>>>>>> Stashed changes
+
 }
