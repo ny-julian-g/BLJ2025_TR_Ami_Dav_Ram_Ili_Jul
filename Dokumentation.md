@@ -44,6 +44,7 @@ Wir entschieden uns für Schere, Stein, Papier.
 Ich habe zuerst nachgeschaut wie  
 ## Kontrollieren
 ### Testing Protokoll
+![img_6.png](img_6.png)
 ## Auswerten
 Das Projekt zum Programmieren eines Taschenrechners verlief insgesamt sehr gut.
 Alle grundlegenden Funktionen wie Addition, Subtraktion, Multiplikation und Division konnten erfolgreich umgesetzt werden. Auch die Eingabe und Ausgabe der Werte hat reibungslos funktioniert.
@@ -128,5 +129,3 @@ Der Zeitplan wurde meiner Meinung nach gut eingehalten. Die Grundstruktur war in
 
 •	Wir könnten konzentrierter arbeiten. Und uns weniger über nicht Firmen interne Gespräche austauschen.
 
-### Reflexion
-![img_6.png](img_6.png)
