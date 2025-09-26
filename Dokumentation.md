@@ -18,7 +18,7 @@
 
 ### Rollen
 Julian: Grundtaschenrechner -> Potenzen und Wurzeln und die Fakultät  
-Ramon: Scheren, Stein, Papier programmiert und das Testing Protokoll gemacht / Return to     
+Ramon: Scheren, Stein, Papier programmiert und das Testing Protokoll gemacht / Return to         
 Amina: Grundtaschenrechner -> Plus und Minus, Multiplikation und Division   
 *(Ilija:  = nicht präsent)*
 David:  U.I erstellen, Powerpoint machen und Dokumentation
