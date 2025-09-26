@@ -24,7 +24,8 @@ int hello() {
     printf("/    \\  \\/\\__  \\ |  | _/ ___\\|  |  \\  | \\__  \\\\   __\\/  _ \\_  __ \\\n");
     printf("\\     \\____/ __ \\|  |_\\  \\___|  |  /  |__/ __ \\|  | (  <_> )  | \\/\n");
     printf(" \\______  (____  /____/\\___  >____/|____(____  /__|  \\____/|__|   \n");
-    printf("        \\/     \\/          \\/                \\/                  \n");
+    printf("        \\/     \\/          \\/                \\/                  \n\n");
+    printf("Waehle den gewuenschten Rechner:\n");
     printf("1 -> Standardrechner\n");
     printf("2 -> Potenz\n");
     printf("3 -> Wurzel\n");

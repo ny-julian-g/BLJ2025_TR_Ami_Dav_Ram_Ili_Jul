@@ -18,7 +18,7 @@
 
 ### Rollen
 Julian: Grundtaschenrechner -> Potenzen und Wurzeln und die Fakultät  
-Ramon: Scheren, Stein, Papier programmiert und das Testing Protokoll gemacht
+Ramon: Scheren, Stein, Papier programmiert und das Testing Protokoll gemacht / Return to     
 Amina: Grundtaschenrechner -> Plus und Minus, Multiplikation und Division   
 *(Ilija:  = nicht präsent)*
 David:  U.I erstellen, Powerpoint machen und Dokumentation
@@ -64,8 +64,26 @@ Wie schon erwähnt, finde ich, dass wir eine sehr gute Kommunikation in unserer 
 In weiteren Projekten ist es sinnvoll, die Kommunikation beizubehalten, sie war ausschlaggebend, um  Missverständnisse zu vermeiden und dass wir auf Fehler reagieren konnten. Wir könnten klarer bestimmen, wie wir uns das Repository aufteilen, um Probleme im GitHub zu vermindern. Das ist zur Zeit noch schwierig, da wir noch unerfahren mit GitHub sind und es nicht optimal nutzen können.
 
 Ich finde es war zusätzlich sehr Praktisch in einer Gruppe zu arbeiten, in der sich alle gut verstehen. Dadurch gab es keine Streite, schlechte Laune oder Kommunikation.
+
+
 ### David 
-Weil ich letzte Woche, am Donnerstag und Freitag krank war, konnte ich erst diese Woche am Mittwoch anfangen. Ich habe versucht viel wie möglich zu helfen, desswegen habe ich das Menü vom Taschenrechner codiert und Powerpoint gemacht. Zum Glück gab es keine Schwierigkeiten. 
+Weil ich letzte Woche, am Donnerstag und Freitag krank war, konnte ich erst diese Woche am Mittwoch anfangen. Ich habe versucht viel wie möglich zu helfen, desswegen habe ich das Menü vom Taschenrechner codiert und Powerpoint gemacht.
+Die Umsetzung verlief ohne größere Schwierigkeiten, da die Aufgaben klar verteilt waren und alle zuverlässig gearbeitet haben.
+
+Auch die Zusammenarbeit im Team war sehr angenehm. 
+Wir haben offen und regelmäßig kommuniziert, wodurch Missverständnisse vermieden werden konnten. 
+
+Besonders positiv war die klare Struktur und Aufgabenverteilung, die wir in dieser Arbeit genutzt haben. 
+
+Für zukünftige Projekte möchte ich mir wünschen, dass wir diese gute Zusammenarbeit beibehalten. 
+
+Als kleinen Verbesserungspunkt sehe ich, dass wir vielleicht noch mehr Zwischenschritte oder Checkpoints einplanen könnten, um den Fortschritt kontinuierlich im Blick zu behalten. 
+
+Darüber hinaus habe ich durch die Arbeit auch meine Kenntnisse in der Programmiersprache C vertieft und gemerkt, wie wichtig es ist, den Code nicht nur funktionsfähig, sondern auch verständlich und gut dokumentiert zu gestalten. Das hat den Austausch in der Gruppe erleichtert und gleichzeitig dafür gesorgt, dass alle einen Überblick über den Entwicklungsstand behalten konnten. 
+
+Insgesamt war die Arbeit für mich nicht nur erfolgreich, sondern auch eine gute Gelegenheit, praktische Erfahrungen in der Teamarbeit und im Programmieren zu sammeln.
+
+
 ### Amina 
 Ich finde, dass unser Zeitplan sehr gut eingehalten worden ist. Wir hatten unsere Termine sehr realistisch eingeplant und geraten deswegen nicht in den Zeitstress.
 
@@ -82,3 +100,21 @@ Die Kommunikation war sehr gut. Ich wusste genau an was alle waren und auch umge
 Für das nächste Mal sollte die Zusammenarbeit beibehalten werden. Ausserdem der Fleiss und die Kommunikation, da hauptsächlich durch das wir so weit voran kamen. Definitiv auch die Offenheit, da ich nie die Lust auf das Projekt wegen meinen Mitglieder verloren habe. Ausserdem konnten wir einander gut aushelfen und unterstützen.
 
 Die Konzentration könnte besser laufen und wir hätten mit der übrigen Zeit vielleicht etwas simples dazu tun. Ausserdem hätte ich besonders, weniger K.I benutzen können. Sonst habe ich ehrlichgesagt nichts zu melden, da diese Teamarbeit die Geschmeidigste Teamarbeit ist die ich je gemacht habe und ich wirklich glücklich mit unserem Endprodukt bin.
+###Ramon
+Der Zeitplan wurde meiner Meinung nach gut eingehalten. Die Grundstruktur war innerhalb der abgemachten Zeit fertig.
+•	Ich finde, dass wir alle sehr gut zusammengearbeitet haben. Wir haben die Arbeit gut aufgeteilt und haben uns gegenseitig gut unterstützt.
+
+
+•	Für mich Persönlich war das grösste Problem beim Coden. Ich hatte ein Problem, dass ich lange nicht lösen konnte, was mir sehr viel Wertvolle Zeit 	geraubt hat.
+
+
+•	Ich glaube ich habe der Gruppe gut geholfen, da ich ein Zusatzfeature programmiert habe und den Return to Menu Loop gemacht habe.
+
+
+•	Ich finde wir haben immer alles gut kommuniziert da wir eine Teams Gruppe hatten, wo wir uns ausgetauscht haben. Wir haben uns auch gegenseitig über 	Änderungen informiert.
+
+
+•	Die Kommunikation und die Zusammenarbeit soll in der nächsten Gruppenarbeit beibehalten werden.
+
+
+•	Wir könnten konzentrierter arbeiten. Und uns weniger über nicht Firmen interne Gespräche austauschen.
