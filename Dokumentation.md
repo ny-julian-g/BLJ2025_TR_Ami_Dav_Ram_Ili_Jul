@@ -41,7 +41,7 @@ David:  U.I erstellen, Powerpoint machen und Dokumentation
 Wir entschieden uns für Schere, Stein, Papier.
 ## Realisieren
 ### Aminas Code:
-Ich habe zuerst nachgeschaut wie  
+Ich habe zuerst nachgeschaut wie man überhaupt die Grundoperationen durchführen kann in dem C Programm. Dann hab ich die Fehler von K.I korrigieren lassen, falls mir Julian oder sonst jemand nicht helfen konnte. Dann stellte sich heraus, dass unser Taschenrechner mehr als zwei Zahlen addieren oder subtrahieren können müsse. Also musste ich den Code nochmal neu denken und habe dann (mithilfe von K.I) einen ähnlichen Code gemacht wie viele andere Gruppen. Ausserdem haben ich und Ramon noch ein Loop im Menu erstellt, damit man wieder auf das Menu zurückgreifen kann.  
 ## Kontrollieren
 ### Testing Protokoll
 ## Auswerten
@@ -67,6 +67,9 @@ Ich finde es war zusätzlich sehr Praktisch in einer Gruppe zu arbeiten, in der 
 
 
 ### David 
+**Selbstkritische Reflexion**
+
+
 Weil ich letzte Woche, am Donnerstag und Freitag krank war, konnte ich erst diese Woche am Mittwoch anfangen. Ich habe versucht viel wie möglich zu helfen, desswegen habe ich das Menü vom Taschenrechner codiert und Powerpoint gemacht.
 Die Umsetzung verlief ohne größere Schwierigkeiten, da die Aufgaben klar verteilt waren und alle zuverlässig gearbeitet haben.
 
@@ -85,6 +88,9 @@ Insgesamt war die Arbeit für mich nicht nur erfolgreich, sondern auch eine gute
 
 
 ### Amina 
+**Selbstkritische Reflexion**
+
+
 Ich finde, dass unser Zeitplan sehr gut eingehalten worden ist. Wir hatten unsere Termine sehr realistisch eingeplant und geraten deswegen nicht in den Zeitstress.
 
 Unser Code hat gut funktioniert und die Teamarbeit war sehr gut. Alle haben ihre Aufgaben erledigt und die auch gut. Ausserdem ist die Arbeit sehr fair aufgeteilt worden. Niemand hat das Projekt sozusagen ge-"carried" und wir konnten alle etwas beitragen.
@@ -100,7 +106,10 @@ Die Kommunikation war sehr gut. Ich wusste genau an was alle waren und auch umge
 Für das nächste Mal sollte die Zusammenarbeit beibehalten werden. Ausserdem der Fleiss und die Kommunikation, da hauptsächlich durch das wir so weit voran kamen. Definitiv auch die Offenheit, da ich nie die Lust auf das Projekt wegen meinen Mitglieder verloren habe. Ausserdem konnten wir einander gut aushelfen und unterstützen.
 
 Die Konzentration könnte besser laufen und wir hätten mit der übrigen Zeit vielleicht etwas simples dazu tun. Ausserdem hätte ich besonders, weniger K.I benutzen können. Sonst habe ich ehrlichgesagt nichts zu melden, da diese Teamarbeit die Geschmeidigste Teamarbeit ist die ich je gemacht habe und ich wirklich glücklich mit unserem Endprodukt bin.
-###Ramon
+### Ramon
+**Selbstkritische Reflexion**
+
+
 Der Zeitplan wurde meiner Meinung nach gut eingehalten. Die Grundstruktur war innerhalb der abgemachten Zeit fertig.
 •	Ich finde, dass wir alle sehr gut zusammengearbeitet haben. Wir haben die Arbeit gut aufgeteilt und haben uns gegenseitig gut unterstützt.
 
