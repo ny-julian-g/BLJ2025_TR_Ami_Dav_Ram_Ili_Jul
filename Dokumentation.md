@@ -219,3 +219,21 @@ Die Kommunikation war sehr gut. Ich wusste genau an was alle waren und auch umge
 Für das nächste Mal sollte die Zusammenarbeit beibehalten werden. Ausserdem der Fleiss und die Kommunikation, da hauptsächlich durch das wir so weit voran kamen. Definitiv auch die Offenheit, da ich nie die Lust auf das Projekt wegen meinen Mitglieder verloren habe. Ausserdem konnten wir einander gut aushelfen und unterstützen.
 
 Die Konzentration könnte besser laufen und wir hätten mit der übrigen Zeit vielleicht etwas simples dazu tun. Ausserdem hätte ich besonders, weniger K.I benutzen können. Sonst habe ich ehrlichgesagt nichts zu melden, da diese Teamarbeit die Geschmeidigste Teamarbeit ist die ich je gemacht habe und ich wirklich glücklich mit unserem Endprodukt bin.
+###Ramon
+Der Zeitplan wurde meiner Meinung nach gut eingehalten. Die Grundstruktur war innerhalb der abgemachten Zeit fertig.
+•	Ich finde, dass wir alle sehr gut zusammengearbeitet haben. Wir haben die Arbeit gut aufgeteilt und haben uns gegenseitig gut unterstützt.
+
+
+•	Für mich Persönlich war das grösste Problem beim Coden. Ich hatte ein Problem, dass ich lange nicht lösen konnte, was mir sehr viel Wertvolle Zeit 	geraubt hat.
+
+
+•	Ich glaube ich habe der Gruppe gut geholfen, da ich ein Zusatzfeature programmiert habe und den Return to Menu Loop gemacht habe.
+
+
+•	Ich finde wir haben immer alles gut kommuniziert da wir eine Teams Gruppe hatten, wo wir uns ausgetauscht haben. Wir haben uns auch gegenseitig über 	Änderungen informiert.
+
+
+•	Die Kommunikation und die Zusammenarbeit soll in der nächsten Gruppenarbeit beibehalten werden.
+
+
+•	Wir könnten konzentrierter arbeiten. Und uns weniger über nicht Firmen interne Gespräche austauschen.
